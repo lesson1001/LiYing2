@@ -248,6 +248,18 @@ LiYing 是一个开源项目，非常欢迎社区的参与。要为该项目做�
 
 <br>
 
+## 赞赏
+
+如果这个项目对您有帮助，欢迎任意赞赏，这对我十分有帮助，感谢您的支持！
+
+```
+USDT(TRON):TWFDp8aZMWZHPXjBodyhfPeK8LUyrWe9mi
+```
+
+<img src="../images/usdt_thanks.jpg" width = "300" height = "300" alt="usdt_thanks"/>
+
+<br>
+
 ## Star History
 
 <a href="https://star-history.com/#aoguai/LiYing&Timeline">
