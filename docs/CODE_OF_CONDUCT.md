@@ -17,23 +17,23 @@ diverse, inclusive, and healthy community.
 Examples of behavior that contributes to a positive environment for our
 community include:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
+- Demonstrating empathy and kindness toward other people
+- Being respectful of differing opinions, viewpoints, and experiences
+- Giving and gracefully accepting constructive feedback
+- Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
+- Focusing on what is best not just for us as individuals, but for the
   overall community
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or
+- The use of sexualized language or imagery, and sexual attention or
   advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
+- Trolling, insulting or derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or email
   address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
+- Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
 ## Enforcement Responsibilities
@@ -106,7 +106,7 @@ Violating these terms may lead to a permanent ban.
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
+standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
@@ -126,39 +126,3 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
-
-## Additional conventions
-
-### Submission Rules
-
-Our latest are based on the [dev](https://github.com/aoguai/LiYing/tree/dev) branch. When you plan to contribute, you should fork from the [dev](https://github.com/aoguai/LiYing/tree/dev) branch and submit to the [dev](https://github.com/aoguai/LiYing/tree/dev) branch.
-
-### Pull Request Guidelines
-
-To make the contribution process smoother and more efficient, you should follow these guidelines.
-
-These specifications help maintain a clear and informative commit history, making it easier for everyone to understand the changes.
-
-Before submitting a Pull Request, please ensure your changes follow these conventions:
-
-- Your Pull Request title should follow this pattern:
-  ```plaintext
-    <type>(APP name): <subject>
-  ```
-- **type**: The type of commit should be one of the following:
-  - **feat:** New feature
-  - **fix:** Bug fix
-- Your code changes should be well-documented and maintain a clear commit history.
-
-- The following types of Pull Requests will not be accepted:
-  - Untested code changes
-  - Undocumented code changes
-  - Untested documentation changes
-
-#### Why Standardize Commit Messages?
-
-In daily development work, using Git to manage code changes is common. However, if we don't pay attention to the quality of commit messages, it may lead to unclear and ineffective history records. Standardizing commit messages enhances readability and utility.
-
-### Code of Conduct
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions and contributions.
