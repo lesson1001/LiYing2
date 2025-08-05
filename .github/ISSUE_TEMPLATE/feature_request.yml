@@ -1,0 +1,30 @@
+name: 功能请求 / Feature request
+title: "[Feature] "
+description: 提出你的功能请求 / Propose your feature request
+labels: ["pending triage"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 感谢您花时间填写，在提交之前，请确保您完成以下操作
+        1. 请 **确保** 已有的 [议题](https://github.com/aoguai/LiYing/issues) 或 [讨论](https://github.com/aoguai/LiYing/discussions) 中没有人提交过相似建议，否则请在该问题下进行讨论
+        2. 请 **不要** 开启重复相关的 issue，这将导致别人搜索 issue 时出现无关的低质量信息，否则你的问题将会被直接关闭甚至删除
+        3. 请 **确保** 你想要的功能在 [releases](https://github.com/aoguai/LiYing/releases/latest) 发布的最新版本(包含测试版本)上没有找到
+        4. 请 **务必** 给 issue 填写一个简洁明了的标题，以便他人快速检索
+        
+        ## Thank you for taking the time to fill this out. Before submitting, please ensure you have completed the following:
+        1. Please **ensure** that no one has submitted a similar suggestion in the existing [issues](https://github.com/aoguai/LiYing/issues) or [discussions](https://github.com/aoguai/LiYing/discussions). Otherwise, please discuss it under that issue.
+        2. Please **do not** open duplicate issues. This will lead to irrelevant, low-quality information when others search for issues, and your issue will be closed or even deleted directly.
+        3. Please **ensure** that the feature you want is not found in the latest version (including beta versions) released in [releases](https://github.com/aoguai/LiYing/releases/latest).
+        4. Please **make sure** to give the issue a concise and clear title for others to retrieve it quickly.
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: |
+        新功能描述 / New feature description
+      description: |
+        例如: 我希望在 LiYing 中添加什么功能，这个功能的作用是什么？\
+        For example: What feature do I want to add to LiYing, and what is the purpose of this feature?
+    validations:
+      required: true

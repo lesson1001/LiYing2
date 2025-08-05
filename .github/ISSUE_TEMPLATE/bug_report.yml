@@ -94,9 +94,9 @@ body:
         
         System information
       description: |
-        请说明您的操作系统: [例如.Windows]以及软件版本 [例如. V1.6]
+        请说明您的操作系统: [例如.Windows]以及软件版本 [例如. V3.0 WebUI Latest]
         
-        Please specify your operating system: [e.g., Windows] and software version [e.g., V1.6]
+        Please specify your operating system: [e.g., Windows] and software version [e.g., V3.0 WebUI Latest]
     validations:
       required: true
   - type: textarea
