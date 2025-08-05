@@ -1,4 +1,0 @@
-fastapi
-uvicorn
-pillow
-# git+https://github.com/less1001/LiYing.git
