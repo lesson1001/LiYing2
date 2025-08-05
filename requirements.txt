@@ -1,11 +1,4 @@
-click
-cffi
-colorama
-mozjpeg_lossless_optimization
-onnxruntime>=1.14.0
-orjson>=3.10.7
-gradio>=4.44.1
-Pillow
-opencv-python
-numpy
-piexif
+fastapi
+uvicorn
+pillow
+# git+https://github.com/less1001/LiYing.git
