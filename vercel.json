@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://idphoto-api.onrender.com/$1"
+    }
+  ]
+}
